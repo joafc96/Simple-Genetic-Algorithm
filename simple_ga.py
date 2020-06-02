@@ -84,8 +84,8 @@ def mutation(agents):
 
 
 if __name__ == '__main__':
-    in_string = 'jomon'
+    in_string = 'input_string'
     len_in_string = len(in_string)
-    population = 1000
-    generations = 1000
+    population = 100
+    generations = 500
     ga()
